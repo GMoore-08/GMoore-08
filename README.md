@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-> HTML, CSS and JavaScript are technologies I am currently learning and using at a basic level.
+> All of them are technologies I am currently learning and using at a basic level.
 
 ### 🖥️ Development Tools
 
@@ -48,18 +48,18 @@
 </p>
 
 * **Visual Studio Code** — Used for programming, web development, and general projects.
-* **Visual Studio 2022** — Used mainly for C++ development and projects.
+* **Visual Studio 2022** — Used for main proyects in different languajes.
 
 ---
 
 ## 📚 Currently Learning
 
-* Object-Oriented Programming
-* Data Structures and Algorithms
-* Software Engineering
-* Web Development
-* Problem Solving
-* Git and GitHub
+* ✅ Object-Oriented Programming 
+* 🔃 Data Structures and Algorithms 
+* 🔃 Software Desing
+* 🔃 Web Development
+* ✅ Problem Solving
+* 🔃 Git and GitHub
 
 ---
 
@@ -74,7 +74,7 @@ More projects will be added as I progress through my Software Engineering studie
 ### 🔗  Contact Me
 
 <div align="center">
-  <a href="mailto:TU_CORREO@gmail.com">
+  <a href="mailto:gustavomooreyauri@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -83,6 +83,7 @@ More projects will be added as I progress through my Software Engineering studie
 
 <div align="center">
 
-*"Always learning, always building."*
+*"Give instruction to a wise man, and he will be still wiser; teach a righteous man, and he will increase in learning."   
+Proverbs 9:9*
 
 </div>
